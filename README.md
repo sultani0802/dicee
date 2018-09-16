@@ -10,7 +10,7 @@ Simple; an app to roll 2 dice
 Roll 2 dice using arc4random_uniform
 
 ## Requirements
-Xcode 9. iOS device running iOS 11 isn't necessary but nice to use to deploy the app
+Xcode 9. iPhone 6 or newer running iOS 11 isn't necessary but nice to use to deploy the app
 
 ## Installation
 ### Manually
