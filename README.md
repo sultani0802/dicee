@@ -4,7 +4,10 @@ Simple; an app to roll 2 dice
 
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-![Alt text](/diceescreenshot.png)
+![Alt text](/diceescreenshot.png) {
+width: 50%
+height: 50%
+}
 
 ## Features
 Roll 2 dice using arc4random_uniform
